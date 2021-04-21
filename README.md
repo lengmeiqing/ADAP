@@ -1,2 +1,2 @@
-# ADAP
-Adaptive Decomposition with Aggregation Parameter
+# ADAM
+Adaptive Decomposition with Aggregation Model
